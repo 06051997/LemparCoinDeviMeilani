@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LemparCoinDeviMeilani</string>
+    <string name="buttonlempar">lemparcoin</string>
+    <string name="buttonulangi">ulangi</string>
+    <string name="buttonkeluar">keluar</string>
+
+</resources>
